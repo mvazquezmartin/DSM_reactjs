@@ -1,3 +1,11 @@
+h1{
+  text-align: center;
+}
+.bodyCard{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 .App {
   text-align: center;
 }

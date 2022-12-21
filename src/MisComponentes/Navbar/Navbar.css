@@ -1,0 +1,13 @@
+.myHeader {
+  display: flex;
+  justify-content: center;
+  background-color: #212529;
+}
+ul {
+  display: flex;
+}
+ul li {
+  color: aliceblue;
+  list-style: none;
+  margin: 0rem 1rem;
+}

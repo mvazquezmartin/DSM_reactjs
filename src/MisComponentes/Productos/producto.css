@@ -1,0 +1,7 @@
+.prodCard{
+    display: flex;
+    border: solid 1px;
+    height: 200px;
+    width: 300px;
+    justify-content: center;
+}
